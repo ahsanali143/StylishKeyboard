@@ -1,0 +1,35 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidStudioProjects\AfghanAndroidKeyboard\emoji\src\main\AndroidManifest.xml:1:1-14:12
+INJECTED from D:\AndroidStudioProjects\AfghanAndroidKeyboard\emoji\src\main\AndroidManifest.xml:1:1-14:12
+INJECTED from D:\AndroidStudioProjects\AfghanAndroidKeyboard\emoji\src\main\AndroidManifest.xml:1:1-14:12
+	package
+		ADDED from D:\AndroidStudioProjects\AfghanAndroidKeyboard\emoji\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from D:\AndroidStudioProjects\AfghanAndroidKeyboard\emoji\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\AfghanAndroidKeyboard\emoji\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\AndroidStudioProjects\AfghanAndroidKeyboard\emoji\src\main\AndroidManifest.xml:2:5-51
+	xmlns:android
+		ADDED from D:\AndroidStudioProjects\AfghanAndroidKeyboard\emoji\src\main\AndroidManifest.xml:1:11-69
+uses-sdk
+ADDED from D:\AndroidStudioProjects\AfghanAndroidKeyboard\emoji\src\main\AndroidManifest.xml:5:5-6:42
+INJECTED from D:\AndroidStudioProjects\AfghanAndroidKeyboard\emoji\src\main\AndroidManifest.xml:5:5-6:42
+INJECTED from D:\AndroidStudioProjects\AfghanAndroidKeyboard\emoji\src\main\AndroidManifest.xml:5:5-6:42
+INJECTED from D:\AndroidStudioProjects\AfghanAndroidKeyboard\emoji\src\main\AndroidManifest.xml:5:5-6:42
+INJECTED from D:\AndroidStudioProjects\AfghanAndroidKeyboard\emoji\src\main\AndroidManifest.xml:5:5-6:42
+	android:targetSdkVersion
+		ADDED from D:\AndroidStudioProjects\AfghanAndroidKeyboard\emoji\src\main\AndroidManifest.xml:5:42-71
+		INJECTED from D:\AndroidStudioProjects\AfghanAndroidKeyboard\emoji\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\AfghanAndroidKeyboard\emoji\src\main\AndroidManifest.xml
+	tools:ignore
+		ADDED from D:\AndroidStudioProjects\AfghanAndroidKeyboard\emoji\src\main\AndroidManifest.xml:6:9-39
+	android:minSdkVersion
+		ADDED from D:\AndroidStudioProjects\AfghanAndroidKeyboard\emoji\src\main\AndroidManifest.xml:5:15-41
+		INJECTED from D:\AndroidStudioProjects\AfghanAndroidKeyboard\emoji\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\AfghanAndroidKeyboard\emoji\src\main\AndroidManifest.xml
+application
+ADDED from D:\AndroidStudioProjects\AfghanAndroidKeyboard\emoji\src\main\AndroidManifest.xml:8:5-12:19
+	android:label
+		ADDED from D:\AndroidStudioProjects\AfghanAndroidKeyboard\emoji\src\main\AndroidManifest.xml:9:9-41
+	android:allowBackup
+		ADDED from D:\AndroidStudioProjects\AfghanAndroidKeyboard\emoji\src\main\AndroidManifest.xml:8:18-44

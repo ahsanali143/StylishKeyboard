@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\AfghanAndroidKeyboard\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\input_3.xml",
+        "source": "D:\\AndroidStudioProjects\\AfghanAndroidKeyboard\\app\\src\\main\\res\\layout\\input_3.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\AfghanAndroidKeyboard\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_about.xml",
+        "source": "D:\\AndroidStudioProjects\\AfghanAndroidKeyboard\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\AfghanAndroidKeyboard\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\keyboard_popup_layout.xml",
+        "source": "D:\\AndroidStudioProjects\\AfghanAndroidKeyboard\\app\\src\\main\\res\\layout\\keyboard_popup_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\AfghanAndroidKeyboard\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_list_view.xml",
+        "source": "D:\\AndroidStudioProjects\\AfghanAndroidKeyboard\\app\\src\\main\\res\\layout\\item_list_view.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\AfghanAndroidKeyboard\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "D:\\AndroidStudioProjects\\AfghanAndroidKeyboard\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\AfghanAndroidKeyboard\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\candidate_view.xml",
+        "source": "D:\\AndroidStudioProjects\\AfghanAndroidKeyboard\\app\\src\\main\\res\\layout\\candidate_view.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\AfghanAndroidKeyboard\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\input_7.xml",
+        "source": "D:\\AndroidStudioProjects\\AfghanAndroidKeyboard\\app\\src\\main\\res\\layout\\input_7.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\AfghanAndroidKeyboard\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\input_2.xml",
+        "source": "D:\\AndroidStudioProjects\\AfghanAndroidKeyboard\\app\\src\\main\\res\\layout\\input_2.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\AfghanAndroidKeyboard\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_dictionary.xml",
+        "source": "D:\\AndroidStudioProjects\\AfghanAndroidKeyboard\\app\\src\\main\\res\\layout\\activity_dictionary.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\AfghanAndroidKeyboard\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_theme.xml",
+        "source": "D:\\AndroidStudioProjects\\AfghanAndroidKeyboard\\app\\src\\main\\res\\layout\\activity_theme.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\AfghanAndroidKeyboard\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\input_5.xml",
+        "source": "D:\\AndroidStudioProjects\\AfghanAndroidKeyboard\\app\\src\\main\\res\\layout\\input_5.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\AfghanAndroidKeyboard\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\toolbar.xml",
+        "source": "D:\\AndroidStudioProjects\\AfghanAndroidKeyboard\\app\\src\\main\\res\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\AfghanAndroidKeyboard\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\search_words_list.xml",
+        "source": "D:\\AndroidStudioProjects\\AfghanAndroidKeyboard\\app\\src\\main\\res\\layout\\search_words_list.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\AfghanAndroidKeyboard\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\input_8.xml",
+        "source": "D:\\AndroidStudioProjects\\AfghanAndroidKeyboard\\app\\src\\main\\res\\layout\\input_8.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\AfghanAndroidKeyboard\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\key_preview_layout.xml",
+        "source": "D:\\AndroidStudioProjects\\AfghanAndroidKeyboard\\app\\src\\main\\res\\layout\\key_preview_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\AfghanAndroidKeyboard\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\input_4.xml",
+        "source": "D:\\AndroidStudioProjects\\AfghanAndroidKeyboard\\app\\src\\main\\res\\layout\\input_4.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\AfghanAndroidKeyboard\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\emoji_listview_layout.xml",
+        "source": "D:\\AndroidStudioProjects\\AfghanAndroidKeyboard\\app\\src\\main\\res\\layout\\emoji_listview_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\AfghanAndroidKeyboard\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\input_1.xml",
+        "source": "D:\\AndroidStudioProjects\\AfghanAndroidKeyboard\\app\\src\\main\\res\\layout\\input_1.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\AfghanAndroidKeyboard\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\input_9.xml",
+        "source": "D:\\AndroidStudioProjects\\AfghanAndroidKeyboard\\app\\src\\main\\res\\layout\\input_9.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\AfghanAndroidKeyboard\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\input_6.xml",
+        "source": "D:\\AndroidStudioProjects\\AfghanAndroidKeyboard\\app\\src\\main\\res\\layout\\input_6.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\AfghanAndroidKeyboard\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\input_10.xml",
+        "source": "D:\\AndroidStudioProjects\\AfghanAndroidKeyboard\\app\\src\\main\\res\\layout\\input_10.xml"
+    }
+]

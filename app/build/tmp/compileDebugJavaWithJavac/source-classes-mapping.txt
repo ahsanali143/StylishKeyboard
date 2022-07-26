@@ -1,0 +1,85 @@
+com/stylish/keyboard/databinding/Input6Binding.java
+ com.stylish.keyboard.databinding.Input6Binding
+com/stylish/keyboard/databinding/Input5Binding.java
+ com.stylish.keyboard.databinding.Input5Binding
+com/stylish/keyboard/inputMethod/InputMethodSettingsImpl.java
+ com.stylish.keyboard.inputMethod.InputMethodSettingsImpl
+ com.stylish.keyboard.inputMethod.InputMethodSettingsImpl$1
+com/stylish/keyboard/android/LatinKeyboardView.java
+ com.stylish.keyboard.android.LatinKeyboardView
+com/stylish/keyboard/ThemeActivity.java
+ com.stylish.keyboard.ThemeActivity
+com/stylish/keyboard/android/LatinKeyboard.java
+ com.stylish.keyboard.android.LatinKeyboard
+ com.stylish.keyboard.android.LatinKeyboard$LatinKey
+com/stylish/keyboard/android/SoftKeyboard.java
+ com.stylish.keyboard.android.SoftKeyboard
+ com.stylish.keyboard.android.SoftKeyboard$1
+ com.stylish.keyboard.android.SoftKeyboard$2
+ com.stylish.keyboard.android.SoftKeyboard$3
+ com.stylish.keyboard.android.SoftKeyboard$4
+ com.stylish.keyboard.android.SoftKeyboard$SelectDataTask
+com/stylish/keyboard/databinding/Input8Binding.java
+ com.stylish.keyboard.databinding.Input8Binding
+com/stylish/keyboard/databinding/Input7Binding.java
+ com.stylish.keyboard.databinding.Input7Binding
+com/stylish/keyboard/databinding/Input4Binding.java
+ com.stylish.keyboard.databinding.Input4Binding
+com/stylish/keyboard/databinding/Input3Binding.java
+ com.stylish.keyboard.databinding.Input3Binding
+com/stylish/keyboard/AboutActivity.java
+ com.stylish.keyboard.AboutActivity
+com/stylish/keyboard/databinding/SearchWordsListBinding.java
+ com.stylish.keyboard.databinding.SearchWordsListBinding
+com/stylish/keyboard/inputMethod/InputMethodSettingsFragment.java
+ com.stylish.keyboard.inputMethod.InputMethodSettingsFragment
+com/stylish/keyboard/databinding/Input9Binding.java
+ com.stylish.keyboard.databinding.Input9Binding
+com/stylish/keyboard/databinding/Input2Binding.java
+ com.stylish.keyboard.databinding.Input2Binding
+com/stylish/keyboard/databinding/Input1Binding.java
+ com.stylish.keyboard.databinding.Input1Binding
+com/stylish/keyboard/databinding/Input10Binding.java
+ com.stylish.keyboard.databinding.Input10Binding
+com/stylish/keyboard/BuildConfig.java
+ com.stylish.keyboard.BuildConfig
+com/stylish/keyboard/databinding/KeyboardPopupLayoutBinding.java
+ com.stylish.keyboard.databinding.KeyboardPopupLayoutBinding
+com/stylish/keyboard/android/CandidateView.java
+ com.stylish.keyboard.android.CandidateView
+ com.stylish.keyboard.android.CandidateView$1
+com/stylish/keyboard/databinding/ActivityDictionaryBinding.java
+ com.stylish.keyboard.databinding.ActivityDictionaryBinding
+com/stylish/keyboard/databinding/ToolbarBinding.java
+ com.stylish.keyboard.databinding.ToolbarBinding
+com/stylish/keyboard/databinding/EmojiListviewLayoutBinding.java
+ com.stylish.keyboard.databinding.EmojiListviewLayoutBinding
+com/stylish/keyboard/databinding/KeyPreviewLayoutBinding.java
+ com.stylish.keyboard.databinding.KeyPreviewLayoutBinding
+com/stylish/keyboard/databinding/ItemListViewBinding.java
+ com.stylish.keyboard.databinding.ItemListViewBinding
+com/stylish/keyboard/adapter/SearchAdapter.java
+ com.stylish.keyboard.adapter.SearchAdapter
+ com.stylish.keyboard.adapter.SearchAdapter$ViewHolder
+com/stylish/keyboard/android/ImePreferences.java
+ com.stylish.keyboard.android.ImePreferences
+ com.stylish.keyboard.android.ImePreferences$1
+ com.stylish.keyboard.android.ImePreferences$Settings
+com/stylish/keyboard/inputMethod/InputMethodSettingsInterface.java
+ com.stylish.keyboard.inputMethod.InputMethodSettingsInterface
+com/stylish/keyboard/databinding/ActivityMainBinding.java
+ com.stylish.keyboard.databinding.ActivityMainBinding
+com/stylish/keyboard/databinding/ActivityThemeBinding.java
+ com.stylish.keyboard.databinding.ActivityThemeBinding
+com/stylish/keyboard/MainActivity.java
+ com.stylish.keyboard.MainActivity
+com/stylish/keyboard/database/DatabaseManager.java
+ com.stylish.keyboard.database.DatabaseManager
+com/stylish/keyboard/databinding/CandidateViewBinding.java
+ com.stylish.keyboard.databinding.CandidateViewBinding
+com/stylish/keyboard/database/DatabaseHelper.java
+ com.stylish.keyboard.database.DatabaseHelper
+com/stylish/keyboard/databinding/ActivityAboutBinding.java
+ com.stylish.keyboard.databinding.ActivityAboutBinding
+com/stylish/keyboard/DictionaryActivity.java
+ com.stylish.keyboard.DictionaryActivity

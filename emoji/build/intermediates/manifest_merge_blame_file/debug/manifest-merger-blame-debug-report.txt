@@ -1,0 +1,26 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:tools="http://schemas.android.com/tools"
+4    package="github.ankushsachdeva.emojicon" >
+5
+6    <uses-sdk
+6-->D:\AndroidStudioProjects\AfghanAndroidKeyboard\emoji\src\main\AndroidManifest.xml:5:5-6:42
+7        android:minSdkVersion="23"
+7-->D:\AndroidStudioProjects\AfghanAndroidKeyboard\emoji\src\main\AndroidManifest.xml:5:15-41
+8        android:targetSdkVersion="32"
+8-->D:\AndroidStudioProjects\AfghanAndroidKeyboard\emoji\src\main\AndroidManifest.xml:5:42-71
+9        tools:ignore="GradleOverrides" />
+9-->D:\AndroidStudioProjects\AfghanAndroidKeyboard\emoji\src\main\AndroidManifest.xml:6:9-39
+10
+11    <application
+11-->D:\AndroidStudioProjects\AfghanAndroidKeyboard\emoji\src\main\AndroidManifest.xml:8:5-12:19
+12        android:allowBackup="true"
+12-->D:\AndroidStudioProjects\AfghanAndroidKeyboard\emoji\src\main\AndroidManifest.xml:8:18-44
+13        android:label="@string/app_name" >
+13-->D:\AndroidStudioProjects\AfghanAndroidKeyboard\emoji\src\main\AndroidManifest.xml:9:9-41
+14
+15        <!-- android:icon="@drawable/ic_launcher"> -->
+16
+17    </application>
+18
+19</manifest>
